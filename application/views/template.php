@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+	<!-- The template view-->
     <head>
         <meta charset="utf-8">
         <title>{pagetitle}</title>
