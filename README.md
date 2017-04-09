@@ -1,2 +1,2 @@
-# back-end-diner
-the back end for lab 8 
+# starter-standalone
+Starter for lab 8
